@@ -13,7 +13,7 @@ const projectsData = [
             'Engineering: Custom carbon fiber deck design with structural battery integration.',
             'Technical Analysis: Comprehensive drive-train study developed for precision CNC manufacturing.'
         ],
-        image: '/Lindaasdesignpublicimagesprojects/Electric longboard.png',
+        image: '/images/Electric longboard.png',
         tags: ['SolidWorks', 'CNC', 'Prototyping']
     },
     {
@@ -22,7 +22,7 @@ const projectsData = [
         title: 'Precision Engineering',
         category: 'Mechanical Design',
         description: "High-strength motor plate made of ALU 7075 T-6. Beautiful design with all-black finish for a stealth look – it's engineering art.",
-        image: '/Lindaasdesignpublicimagesprojects/DSC_0400 ADJ.jpg',
+        image: '/images/DSC_0400 ADJ.jpg',
         tags: ['Aluminum', 'Manufacturing', 'Design']
     },
     {
@@ -31,7 +31,7 @@ const projectsData = [
         title: 'Drive System Evolution',
         category: 'R&D',
         description: 'Comprehensive research and development of electric drive systems, showcasing multiple iterations and engineering refinements.',
-        image: '/Lindaasdesignpublicimagesprojects/WSB Drive - Picture collage.jpg',
+        image: '/images/WSB Drive - Picture collage.jpg',
         tags: ['R&D', 'Testing', 'Innovation']
     },
     {
@@ -40,7 +40,7 @@ const projectsData = [
         title: 'Component Analysis',
         category: 'Technical Documentation',
         description: 'Detailed technical renders and analysis of motor mount components, demonstrating precision manufacturing capabilities.',
-        image: '/Lindaasdesignpublicimagesprojects/WSP Test V5.jpg',
+        image: '/images/WSP Test V5.jpg',
         tags: ['CAD', 'Rendering', 'Documentation']
     },
     // Project 2: Stiga Snowblaster
@@ -54,7 +54,7 @@ const projectsData = [
             'Engineering: Focus on lightweight and high power.',
             'Technical Analysis: Maintaining STIGA heritage within a robust, production-ready form factor.'
         ],
-        image: '/Lindaasdesignpublicimagesprojects/Stiga Snowblaster/Copy of Stiga Snowblaster with logo.jpg',
+        image: '/images/Stiga Snowblaster/Copy of Stiga Snowblaster with logo.jpg',
         tags: ['SolidWorks', 'Mechanical Engineering', 'Rapid Prototyping', 'Electric Drivetrain', 'FEM Analysis']
     },
     {
@@ -67,7 +67,7 @@ const projectsData = [
             'Engineering: Integrated motor controller and battery management system housing.',
             'Technical Analysis: Evaluating power-to-weight ratios for optimal climbing performance.'
         ],
-        image: '/Lindaasdesignpublicimagesprojects/Stiga Snowblaster/Snow Blaster render 2.12.jpg',
+        image: '/images/Stiga Snowblaster/Snow Blaster render 2.12.jpg',
         tags: ['Electric Powertrain', 'Drivetrain Design', 'R&D']
     },
     {
@@ -80,7 +80,7 @@ const projectsData = [
             'Engineering: Complex assemblies and part optimization for weight reduction.',
             'Technical Analysis: Ensuring manufacturability of intricate mechanical components.'
         ],
-        image: '/Lindaasdesignpublicimagesprojects/Stiga Snowblaster/Snow Blaster render 2.15.jpg',
+        image: '/images/Stiga Snowblaster/Snow Blaster render 2.15.jpg',
         tags: ['SolidWorks', 'Product Development', 'CAD']
     },
     {
@@ -93,7 +93,7 @@ const projectsData = [
             'Engineering: Material selection and concept-to-production verification.',
             'Technical Analysis: Iterative lifecycle validation of structural components.'
         ],
-        image: '/Lindaasdesignpublicimagesprojects/Stiga Snowblaster/Snow Blaster render 2.9.jpg',
+        image: '/images/Stiga Snowblaster/Snow Blaster render 2.9.jpg',
         tags: ['Material Selection', 'Validation', 'Engineering Study']
     },
     // Project 3: Vintage VW Parts
@@ -107,7 +107,7 @@ const projectsData = [
             'Engineering: Precision laser-cut components optimized for strength and weight.',
             'Technical Analysis: CAD modeling and rendering for product visualization and marketing.'
         ],
-        image: '/Lindaasdesignpublicimagesprojects/VW/Beamplates2.jpg',
+        image: '/images/VW/Beamplates2.jpg',
         tags: ['SolidWorks', 'Laser Cutting', 'Product Design']
     },
     {
@@ -120,7 +120,7 @@ const projectsData = [
             'Engineering: TIG welded aluminum construction with precision tolerances.',
             'Technical Analysis: Material selection balancing weight reduction with structural integrity.'
         ],
-        image: '/Lindaasdesignpublicimagesprojects/VW/Extralight bracket3.jpg',
+        image: '/images/VW/Extralight bracket3.jpg',
         tags: ['TIG Welding', 'Aluminum', 'Fabrication']
     },
     {
@@ -133,7 +133,7 @@ const projectsData = [
             'Engineering: Designed for laser cutting with attention to detail and branding.',
             'Technical Analysis: Production workflow from CAD design to finished product.'
         ],
-        image: '/Lindaasdesignpublicimagesprojects/VW/Key rings vintage.jpg',
+        image: '/images/VW/Key rings vintage.jpg',
         tags: ['Keyshot', 'Laser Cutting', 'Branding']
     },
     {
@@ -146,7 +146,7 @@ const projectsData = [
             'Engineering: Photorealistic rendering for marketing and visualization.',
             'Technical Analysis: Advanced rendering techniques using Keyshot for product photography.'
         ],
-        image: '/Lindaasdesignpublicimagesprojects/VW/W cup new.jpg',
+        image: '/images/VW/W cup new.jpg',
         tags: ['Keyshot', 'Photoshop', 'Product Visualization']
     }
 ];

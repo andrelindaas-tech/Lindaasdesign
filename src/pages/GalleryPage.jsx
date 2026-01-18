@@ -4,14 +4,14 @@ import { Link } from 'react-router-dom';
 import Footer from '../components/Footer';
 
 const galleryImages = [
-    '/Lindaasdesignpublicimagesprojects/Image Gallery/1.jpg',
-    '/Lindaasdesignpublicimagesprojects/Image Gallery/2.jpg',
-    '/Lindaasdesignpublicimagesprojects/Image Gallery/3.png',
-    '/Lindaasdesignpublicimagesprojects/Image Gallery/4.png',
-    '/Lindaasdesignpublicimagesprojects/Image Gallery/5.png',
-    '/Lindaasdesignpublicimagesprojects/Image Gallery/6.png',
-    '/Lindaasdesignpublicimagesprojects/Image Gallery/7.png',
-    '/Lindaasdesignpublicimagesprojects/Image Gallery/8.png'
+    '/images/Image Gallery/1.jpg',
+    '/images/Image Gallery/2.jpg',
+    '/images/Image Gallery/3.png',
+    '/images/Image Gallery/4.png',
+    '/images/Image Gallery/5.png',
+    '/images/Image Gallery/6.png',
+    '/images/Image Gallery/7.png',
+    '/images/Image Gallery/8.png'
 ];
 
 const GalleryPage = () => {

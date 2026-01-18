@@ -104,7 +104,7 @@ const Hero = () => {
 
                             {/* Main Image */}
                             <img
-                                src="/Lindaasdesignpublicimagesprojects/hero-product.png"
+                                src="/images/hero-product.png"
                                 alt="Precision Engineering - Motor Mount Assembly"
                                 className="relative z-10 w-full h-auto drop-shadow-[0_35px_35px_rgba(0,0,0,0.6)]"
                             />
