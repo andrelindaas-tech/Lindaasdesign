@@ -52,8 +52,10 @@ const ProjectsPage = () => {
                             Passion <span className="text-gradient-yellow">Projects</span>
                         </h1>
                         <p className="text-xl text-ld-white/70 leading-relaxed">
-                            A collection of independent mechanical design studies and engineering explorations.
-                            From aerospace-inspired mechanics to ergonomic industrial products, these projects reflect a commitment to technical excellence.
+                            A collection of independent engineering explorations driven by innovation and the testing of new concepts.
+                            These projects represent my deep dives into new technologies, advanced mechanics, and innovative manufacturing.
+                            More than just technical studies, they are a playground for learning and developing business aspects,
+                            reflecting a lifelong commitment to exploring the boundaries of engineering excellence.
                         </p>
                     </motion.div>
                 </div>
